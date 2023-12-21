@@ -13,7 +13,7 @@ function App() {
       <p className={style.country_name}>France</p>
       <p className={style.temperature}>17°</p>
       <div className={style.info_icon_container}>
-        <img src={require("./assets/icons2/cloudy-day-1.svg").default} alt="" />
+        <img src={require("./assets/icons/50n.svg").default} alt="" />
       </div>
     </main>
   );
